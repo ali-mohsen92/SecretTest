@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Web Development\Startup\27 - Authentication & Security\AuthenticationSecurity\obj\Debug\AuthenticationSecurity.njsproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Web Development\Startup\27 - Authentication & Security\AuthenticationSecurity\obj\Debug\AuthenticationSecurity.njsproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Web Development\Startup\27 - Authentication & Security\AuthenticationSecurity\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Lenovo\Desktop\Web Development\Startup\27 - AuthenticationSecurity\AuthenticationSecurity\obj\Debug\AuthenticationSecurity.njsproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Web Development\Startup\27 - AuthenticationSecurity\AuthenticationSecurity\obj\Debug\AuthenticationSecurity.njsproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Web Development\Startup\27 - AuthenticationSecurity\AuthenticationSecurity\bin\Microsoft.NodejsTools.WebRole.dll
